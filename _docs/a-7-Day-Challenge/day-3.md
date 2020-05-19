@@ -1,7 +1,7 @@
 ---
 title: Day 3 - Portrait photoshoot at home
 category: 7 Day Challenge
-order: 2
+order: 3
 published: true
 permalink: /day-3
 ---
