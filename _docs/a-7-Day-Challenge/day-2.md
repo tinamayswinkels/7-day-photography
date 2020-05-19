@@ -1,25 +1,25 @@
 ---
-title: Day 2 - Building a brand
+title: Day 2 - How to shoot product & food photography
 category: 7 Day Challenge
 order: 2
 published: true
 permalink: /day-2
 ---
 
-After getting a big picture view yesterday, today we're going to dig deeper into our our brand personality and values, our target audience and value proposition, and how we use better connect with our ideal audience.&nbsp;
+## Day 2 - How to shoot product & food photography
 
-Watch the video, then complete the activity and share your biggest aha moment in the facebook community on today's dedicated post\!&nbsp;
+This is a BIG lesson. Today we're going to be walking you step-by-step through two photography techniques that Emilio has used on hundreds of paid client projects. It's the perfect way to get started, as they are skills that are simple to learn but as you practice and refine them you can create something really magical.First, we'll be creating this stunning shot, and you won't believe what we use to create this studio-style backdrop.&nbsp;
 
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvYlRGdTNIcEtsZEEiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="100%" height="415" src="https://www.youtube.com/embed/bTFu3HpKldA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+![](/uploads/instagram-eon-copyright-img-5135.jpg){: width="1499" height="2000"}
 
-&nbsp;
+Secondly, we'll be practicing our flatlays creating a scene on a piece of fabric you can find around the house.&nbsp;
 
-## Day 2 Activity&nbsp;
+![](/uploads/instagram-eon-copyright-img-5168.jpg){: width="1500" height="2000"}
 
-1. What are your brand values?
-2. What’s your brand personality?
-3. What do you want people to know, think or feel about your brand?&nbsp;
-4. What do you want to be known for?
-5. What do you offer your customers? How will your product or service impact their lives?&nbsp;
-6. How well is your instagram account portraying these brand values?&nbsp;
-7. What about your brand do you need to communicate better?
+## Activity
+
+Today's activity has two parts -- firstly try to use a large piece of paper, or a piece of fabric or sheet to create a smooth curved backdrop and shot some kind of food you can find around the house.&nbsp;
+
+Secondly, we're going to find an interesting background (fabric, timber, one of the tiles on your floor etc) and shoot a flatlay. This could be products like skincare or shampoo, condiments from your kitchen, fruit or vegetables etc.&nbsp;
+
+Can't wait to see what you come up with today, and remember that practice makes perfect -- be willing to experiment and make mistakes knowing that we all started at the beginning.&nbsp;<br><br>If you don't use facebook but still want to share your work, use the hashtag \#iocphotographychallenge to share your progress on Instagram.&nbsp;
