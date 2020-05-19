@@ -1,5 +1,5 @@
 ---
-title: Day 2 - How to shoot product & food photography
+title: Day 2 - Product & food photography
 category: 7 Day Challenge
 order: 2
 published: true

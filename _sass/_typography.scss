@@ -154,6 +154,12 @@ kbd {
 	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 0 0 #fff inset;
 }
 
+.lower-header a {
+	text-decoration: none;
+  color: #70706f;
+	padding: 20px;
+  font-size: 1.4rem;
+}
 
 @media only screen and (max-width: 900px) {
 	blockquote {

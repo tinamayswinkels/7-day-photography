@@ -2,7 +2,7 @@
 title: Day 5 - Understanding the algorithm
 category: 7 Day Challenge
 order: 4
-published: true
+published: false
 permalink: /day-5
 ---
 

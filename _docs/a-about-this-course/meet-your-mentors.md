@@ -1,8 +1,9 @@
 ---
 title: Meet your mentors
-category: 7 Day Challenge
+category: About this course
 order: 2
 permalink: /meet-your-mentors
+published: true
 ---
 
 ### Marie & Jake
@@ -13,7 +14,7 @@ Combining their two different photography tastes, Marie and Jake created a disti
 
 ![](/uploads/marie-and-jake.jpg){: width="800" height="800"}
 
-## Emilio
+### Emilio
 
 Emilio, also known as&nbsp;[Eyes of a Nomad](http://www.instagram.com/eyesofanomad){: target="_blank"}&nbsp;is a content creator from Melbourne Australia currently living the dream in Bali, Indonesia. He helps brands capture the essence of their personality and tell a story through photography & videography. When he isn't running his creative agency, he's sharing his love of photography with his students at Institute of Code.
 
