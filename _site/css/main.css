@@ -722,6 +722,10 @@ kbd {
   padding: 20px;
   font-size: 1.4rem; }
 
+.embed-container {
+  background-image: url("/images/cant-see-video.png");
+  background-size: cover; }
+
 @media only screen and (max-width: 900px) {
   .lower-header {
     text-align: right; }
