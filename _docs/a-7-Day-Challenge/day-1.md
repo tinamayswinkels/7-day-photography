@@ -1,29 +1,32 @@
 ---
-title: Day 1 - Strategy & Goals
+title: Day 1 - How to find the best lighting
 category: 7 Day Challenge
 order: 2
 permalink: /day-1
 ---
 
-Oh hey there, welcome to day 1.&nbsp;
+### Day 1 - How to find the best lighting
 
-Today we're going to look at our overarching strategy and goals, and understanding our target customer.&nbsp;
+Oh hey there, welcome to day 1. Today we’re going to look at lighting, one of the most essential components of photography -- join us as we head out to shoot at a beautiful rice terrace here in Bali, and then back in our villa with techniques you can use at home. &nbsp;
 
 Watch the video, then complete the activity and share your results in the facebook community\!&nbsp;
 
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvNWVCME9xcjRCMGciIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe width="100%" height="415" src="https://www.youtube.com/embed/5eB0Oqr4B0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+&lt;DAY 1 VIDEO&gt;&nbsp;
 
 ## Day 1 Activity&nbsp;
 
-Your turn, let’s write clear descriptive goals for your instagram.&nbsp;
+Today's activity is all about experimenting with lighting
 
-* Who you want to attract?
-* What you want them to know, think, feel or believe?
-* What action do you want them to take when they come to your instagram?
-* What are the brand values you want to communicate?
+* Track the light in your space, watching where the light moves throughout the day and identifying good spots for soft natural lighting.&nbsp;
+* Try capturing a photo at golden hour and again an hour later, and see the difference for yourself&nbsp;
+* Film yourself spinning in a circle and watch how the light on your face changes, or move your hand around and see the light and shadows. Don’t be afraid to experiment.
 
-## Win a one-on-one strategy call with Tina May
+Then when you are ready, try to take one shot -- of yourself, your family member or friend, your pets, or even products you find around the house. Share this shot, along with your biggest 'aha' moment in the&nbsp;[facebook community](https://www.facebook.com/groups/243183530226683/){: target="_blank"}.&nbsp;
 
-At the end of this challenge we're going to be hand selecting 3 people to receive a 1 hour strategy call with our founder Tina May for a personalised review of their marketing or instagram strategy\! &nbsp;
+## Win a one-on-one feedback from your mentors
 
-To win, make sure you are following <a href="http://www.instagram.com/hellotinamay"> @hellotinamay </a> and <a href="http://www.instagram.com/instituteofcode"> @instituteofcode </a> share a post or story on Facebook or Instagram tagging both accounts -- every time you share it increases your chances, so we encourage you to share a little insight or behind the scenes moment each day of the challange.
+At the end of this challenge we’re going to be hand selecting 3 people to receive one-on-one feedback from your mentors on the photos you've taken during the challenge\! &nbsp;
+
+To boost your chances of being selected, make sure you are following your mentors&nbsp;[@eyesfanomad](http://www.instagram.com/eyesofanomad){: target="_blank"}&nbsp;and&nbsp;[@mariefeandjakesnow](http://www.instagram.com/mariefeandjakesnow){: target="_blank"}&nbsp; as well us&nbsp;[@instituteofcode](http://www.instagram.com/instituteofcode)&nbsp;and share a post or story on Facebook or Instagram tagging all three accounts – every time you share it increases your chances, so we encourage you to share a little insight or behind the scenes moment each day of the challenge.&nbsp;
+
+We love following along your journey and seeing your progress as you go along\!&nbsp;
