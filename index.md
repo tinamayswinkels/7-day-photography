@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-&lt;intro video&gt;
+{% include vimeo.html id="420248719" %}
 
 In this course we've taken our years of photography experience and squeezed &nbsp;as much knowledge as possible into a beginner-friendly course.
 

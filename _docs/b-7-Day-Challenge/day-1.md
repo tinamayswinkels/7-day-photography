@@ -5,7 +5,7 @@ order: 2
 permalink: /day-1
 ---
 
-### Day 1 - How to find the best lighting
+{% include vimeo.html id="420252089" %}
 
 Oh hey there, welcome to day 1. Today we’re going to look at lighting, one of the most essential components of photography -- join us as we head out to shoot at a beautiful rice terrace here in Bali, and then back in our villa with techniques you can use at home. &nbsp;
 

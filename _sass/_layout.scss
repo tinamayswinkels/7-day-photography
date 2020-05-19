@@ -70,7 +70,7 @@ body {
 }
 
 .main {
-	margin-top: $space + $nav-header-height;
+	margin-top: $space + $nav-header-height + 40px;
 
 	@media (min-width: $mobile-break) {
 		margin-top: 0;
@@ -99,7 +99,7 @@ header {
 		padding: $emblem-vertical-padding $emblem-horizontal-padding;
 		height: $nav-header-height;
 		box-sizing: border-box;
-		background-color: $brand-colour;
+		background-color: #d09695;
 		color: #fff;
 		margin: 0;
 		font-size: 1.7rem;
@@ -192,17 +192,17 @@ header {
 	}
 
 	h3 {
-		font-size: 4rem;
+		font-size: 2.5rem;
 		margin-left: -4px;
 	}
 
 	@media (min-width: $mobile-break) {
 		h2 {
-			font-size: 2.65rem;
+			font-size: 3rem;
 		}
 
 		h3 {
-			font-size: 5.4rem;
+			font-size: 3.5rem;
 		}
 	}
 

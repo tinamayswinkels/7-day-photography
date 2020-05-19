@@ -43,10 +43,10 @@
 				<button type="button" class="open-nav" id="open-nav"></button>
 			</h1>
 
-			<form action="{{ site.baseurl }}/search/" method="get">
+			<!-- <form action="{{ site.baseurl }}/search/" method="get">
 				<input type="text" name="q" id="search-input" placeholder="Search" autofocus>
 				<input type="submit" value="Search" style="display: none;">
-			</form>
+			</form> -->
 
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
 				<ul>
@@ -91,7 +91,7 @@
 		<a id="top-button" href="#top"><i class="fas fa-chevron-up"></i></a>
 		<section class="main">
 			<div class="page-header">
-				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
+				<h2 class="mob-hide">{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
 				<h3>{{ page.title }}</h3>
 			</div>
 			<article class="content">

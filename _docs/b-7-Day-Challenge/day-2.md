@@ -6,9 +6,7 @@ published: true
 permalink: /day-2
 ---
 
-## Day 2 - How to shoot product & food photography
-
-<div class="cms-embed" data-cms-embed="CjxkaXYgY2xhc3M9ImVtYmVkLWNvbnRhaW5lciI+PGlmcmFtZSBzcmM9Imh0dHBzOi8vcGxheWVyLnZpbWVvLmNvbS92aWRlby80MjAyNDMwMDUvY2IzMjRmNDAzYSIgZnJhbWVib3JkZXI9IjAiIHdlYmtpdGFsbG93ZnVsbHNjcmVlbiBtb3phbGxvd2Z1bGxzY3JlZW4gYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPjwvZGl2Pg=="><div class="embed-container"><iframe src="https://player.vimeo.com/video/420243005/cb324f403a" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div></div>
+{% include vimeo.html id="420243005" %}
 
 This is a BIG lesson. Today we're going to be walking you step-by-step through two photography techniques that Emilio has used on hundreds of paid client projects. It's the perfect way to get started, as they are skills that are simple to learn but as you practice and refine them you can create something really magical.First, we'll be creating this stunning shot, and you won't believe what we use to create this studio-style backdrop.&nbsp;
 

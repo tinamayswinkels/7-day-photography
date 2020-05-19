@@ -162,6 +162,10 @@ kbd {
 }
 
 @media only screen and (max-width: 900px) {
+
+	.lower-header {
+		text-align: right;
+	}
 	blockquote {
 		margin-left: 0;
 	}
@@ -199,6 +203,10 @@ kbd {
 	h6 {
 		font-size: 1.8rem;
 	}
+	.mob-hide {
+		display: none;
+	}
+
 }
 
 @media only screen and (max-width: 500px) {
