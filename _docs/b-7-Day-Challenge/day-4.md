@@ -18,8 +18,14 @@ We'll be teaching you this lesson on Adobe Lightroom which is part of the $10 pe
 
 Today we want you to first have a go at editing the photos that Emile provided. If you are using the free version of lightroom mobile, then you'll need to edit the jpeg image. If you are using lightroom for desktop or have a paid adobe membership, you can edit the raw image.
 
-First see how close you can get to matching this example image... 
+First see how close you can get to matching this example image…
 
-Then you can get creative and see what you come up with!
+![](/uploads/screen-shot-2020-05-19-at-8-53-36-pm.png){: width="800" height="508"}
 
-After that if you want to have a go at editing some of your images that you have shot in previous days, go for it! Practice makes perfect.
+Then you can get creative and see what you come up with\!
+
+After that if you want to have a go at editing some of your images that you have shot in previous days, go for it\!
+
+Practice makes perfect.
+
+[Download Unedited Photos Here](https://drive.google.com/open?id=1yyAbkaRzcM9QR99atbUl9UW0YhrEpVhV){: target="_blank"}
