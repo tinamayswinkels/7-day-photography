@@ -8,7 +8,7 @@ permalink: /day-4
 
 In this lesson we're covering the basics of how to edit photos from scratch in lightroom (without using any presets).&nbsp;
 
-{% include vimeo.html id="cb324f403a" %}
+{% include vimeo.html id="420268996" %}
 
 We'll look at how to nail your exposure using the exposure slider contrast, whites, blacks, highlights & shadows. Then we'll look at getting the white balance correct by adjusting the color temperature and tone. Finally we'll show you how you can get creative and take your photos to the next level using selective color editing and split toning.&nbsp;
 
