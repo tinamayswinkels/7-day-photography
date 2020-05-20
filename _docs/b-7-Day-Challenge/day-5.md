@@ -2,7 +2,7 @@
 title: Day 5 - How to shoot solo (with or without a tripod!)
 category: 7 Day Challenge
 order: 5
-published: false
+published: true
 permalink: /day-5
 ---
 
