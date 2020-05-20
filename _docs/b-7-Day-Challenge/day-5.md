@@ -1,23 +1,17 @@
 ---
-title: Day 5 - Understanding the algorithm
+title: Day 5 - How to shoot solo (with or without a tripod!)
 category: 7 Day Challenge
-order: 4
+order: 5
 published: false
 permalink: /day-5
 ---
 
-Today we're looking at the instagram algorithm that controls who actually sees your content in their feed. Understanding this is critical to growing your instagram account, but it's nothing to be afraid of. &nbsp;Follow along with the video and then write down below how you'll implement what you've learnt\!&nbsp;
+In the last lesson we looked at how to shoot portraits at home, but what about when you are shooting by yourself? Or when you want to take a photo as a couple or family and don't have anyone to take the shot?&nbsp;
 
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI0MTUiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvbVZKMklKT1ZEYXciIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4K"><iframe width="100%" height="415" src="https://www.youtube.com/embed/mVJ2IJOVDaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+In this lesson, Marie & Jake walk us through their creative process for shooting content themselves and get pretty creative with a hummus jar\!&nbsp;
 
-## Activity&nbsp;
+&nbsp;
 
-For each of these points, brainstorm 1-3 tactics that you can use in your own feed...
+Today's activity? Shoot a self-portrait (solo, with a friend or partner, or even with your pet\!). Practice framing the shot and then using a self-timer to capture it.&nbsp;
 
-1. Engagement -&nbsp; how popular the post is
-2. Relevancy -&nbsp; the genres of people you have interacted with
-3. Relationships -&nbsp; the accounts you regularly interact with
-4. Timeliness -&nbsp; how recent the posts are
-5. Profile Searches -&nbsp; the accounts you search often
-6. Shares & Saves -&nbsp; the accounts you want to share with friends and save for later.
-7. Time spent -&nbsp; how long you spend engaging with an accounts content
+If you can, share a photo behind-the-scenes too or tell us about how you you set up the shot?&nbsp;
