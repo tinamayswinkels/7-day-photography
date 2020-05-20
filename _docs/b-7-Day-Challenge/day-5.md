@@ -2,7 +2,7 @@
 title: Day 5 - How to shoot solo (with or without a tripod!)
 category: 7 Day Challenge
 order: 5
-published: false
+published: true
 permalink: /day-5
 ---
 
@@ -10,7 +10,7 @@ In the last lesson we looked at how to shoot portraits at home, but what about w
 
 In this lesson, Marie & Jake walk us through their creative process for shooting content themselves and get pretty creative with a hummus jar\!&nbsp;
 
-&nbsp;
+{% include vimeo.html id="420605786" %}
 
 Today's activity? Shoot a self-portrait (solo, with a friend or partner, or even with your pet\!). Practice framing the shot and then using a self-timer to capture it.&nbsp;
 
