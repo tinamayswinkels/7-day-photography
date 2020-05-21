@@ -10,4 +10,4 @@ In today's lesson Jake will walk you through basic editing on an iPhone using li
 
 {% include vimeo.html id="420985920" %}
 
-Today's activity is to practice editing a photo that you've taken so far just on your phone (this will be easiest if you already have good lighting\!).&nbsp;<br><br>If you want to test out using the preset that Jake used in the demo, we're giving it away for [FREE here](https://thisismaja.com/#free-preset){: target="_blank"}.&nbsp;
+Today's activity is to practice editing a photo that you've taken so far just on your phone (this will be easiest if you already have good lighting\!).&nbsp;<br><br>If you want to test out using the preset that Jake used in the demo, we're giving it away for [FREE here](https://thisismaja.com/#free-preset){: target="_blank"}&nbsp;on the new MAJA website ( that we coded from scratch 😉).&nbsp;
