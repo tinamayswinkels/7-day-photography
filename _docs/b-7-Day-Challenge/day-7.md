@@ -19,3 +19,7 @@ Although cameras have a bunch of crazy cool tech inside them these days, they st
 ![](/uploads/screen-shot-2020-05-22-at-4-45-32-pm.png){: width="800" height="531"}
 
 Light enters the lens & into the camera body, how much light enters, is determined by the lens iris (**Aperture**), it then hits the shutter, which drops down when you depress the shutter button, exposing the light onto the sensor (or in the old days, film) & turning it into an image.
+
+There are three elements used to manipulate light that we must balance in order to take a well exposed photo; **Aperture**, **Shutter Speed** & **ISO**. In order to find the correct balance, we must first understand each element & what they do, starting with **Aperture**.
+
+![](/uploads/screen-shot-2020-05-22-at-4-48-26-pm.png){: width="800" height="363"}
