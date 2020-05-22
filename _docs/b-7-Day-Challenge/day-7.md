@@ -8,6 +8,8 @@ permalink: /day-7
 
 Today we're going to teach you a little bit about shutter speed, aperture, and ISO.
 
+{% include vimeo.html id="421511841" %}
+
 The goal for this lesson is not for you to master manual photography in 15 minutes — What we are going to do is help you understand some of the terminology that you hear thrown around and give you a sneak peak into a whole new world of creative photography.
 
 ## How a camera works
@@ -26,7 +28,7 @@ There are three elements used to manipulate light that we must balance in order 
 
 **ISO&nbsp;**controls how sensitive the sensor is to light which impacts 2 main things; the brightness of the image & the amount of noise (grain) in the image. A higher ISO is more sensitive to light (brighter) but also more noisy, a lower ISO is less sensitive to light (darker) and has less noise.&nbsp;
 
-Remember that you need to balance the overall amount of light coming into the camera. So if your priority is a really fast shutter speed, you might need to use a higher f-stop and higher ISO. If you really want a blurry background, you might need to increase the shutter speed and ISO. Generally we adjust the main priority first, and ISO last.&nbsp;
+Remember that you need to balance the overall amount of light coming into the camera. So if your priority is a really fast shutter speed, you might need to use a higher f-stop and higher ISO. If you really want a blurry background, you might need to increase the shutter speed and ISO. Generally we adjust the main priority first, and ISO last (with the goal to keep ISO as low while still having a correctly exposed image).&nbsp;
 
 Depending on the mode you shoot in, you might be controlling just one aspect and the camera is automatically handling the others or you might be controlling all three.&nbsp;
 
