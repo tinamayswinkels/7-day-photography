@@ -23,3 +23,5 @@ Light enters the lens & into the camera body, how much light enters, is determin
 There are three elements used to manipulate light that we must balance in order to take a well exposed photo; **Aperture**, **Shutter Speed** & **ISO**. In order to find the correct balance, we must first understand each element & what they do, starting with **Aperture**.
 
 ![](/uploads/screen-shot-2020-05-22-at-4-48-26-pm.png){: width="800" height="363"}
+
+**Aperture** controls the amount of light coming into the camera body which impacts 2 main things; the brightness of the image & the depth of field of the image
