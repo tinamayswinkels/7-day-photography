@@ -26,6 +26,10 @@ There are three elements used to manipulate light that we must balance in order 
 
 **ISO&nbsp;**controls how sensitive the sensor is to light which impacts 2 main things; the brightness of the image & the amount of noise (grain) in the image. A higher ISO is more sensitive to light (brighter) but also more noisy, a lower ISO is less sensitive to light (darker) and has less noise.&nbsp;
 
+Remember that you need to balance the overall amount of light coming into the camera. So if your priority is a really fast shutter speed, you might need to use a higher f-stop and higher ISO. If you really want a blurry background, you might need to increase the shutter speed and ISO. Generally we adjust the main priority first, and ISO last.&nbsp;
+
+Depending on the mode you shoot in, you might be controlling just one aspect and the camera is automatically handling the others or you might be controlling all three.&nbsp;
+
 ## Today's Activity&nbsp;
 
 Today's activity is first just to think about the controls that might have been used to create some of your favourite instagram shots. Have a scroll through instagram and Pinterest, find some epic photos and think about whether aperture or shutter speed might have been the primary tool.&nbsp;
