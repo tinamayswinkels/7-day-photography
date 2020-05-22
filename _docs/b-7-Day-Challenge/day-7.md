@@ -2,7 +2,7 @@
 title: 'Day 7 - Camera Basics (Shutter Speed, Aperture, and ISO)'
 category: 7 Day Challenge
 order: 7
-published: false
+published: true
 permalink: /day-7
 ---
 
