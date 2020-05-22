@@ -20,8 +20,22 @@ Although cameras have a bunch of crazy cool tech inside them these days, they st
 
 Light enters the lens & into the camera body, how much light enters, is determined by the lens iris (**Aperture**), it then hits the shutter, which drops down when you depress the shutter button, exposing the light onto the sensor (or in the old days, film) & turning it into an image.
 
-There are three elements used to manipulate light that we must balance in order to take a well exposed photo; **Aperture**, **Shutter Speed** & **ISO**. In order to find the correct balance, we must first understand each element & what they do, starting with **Aperture**.
+There are three elements used to manipulate light that we must balance in order to take a well exposed photo; **Shutter Speed, Aperture**, & **ISO**.&nbsp;
 
-![](/uploads/screen-shot-2020-05-22-at-4-48-26-pm.png){: width="800" height="363"}
+**Shutter Speed** controls how long the sensor is exposed to light, which impacts 2 main things; the brightness of the image & how motion is captured.
 
-**Aperture** controls the amount of light coming into the camera body which impacts 2 main things; the brightness of the image & the depth of field of the image
+**Aperture** controls the amount of light coming into the camera body which impacts 2 main things; the brightness of the image & the depth of field of the image. We use a higher number (a higher F-stop) if we want more of the image to be in focus, and a lower number if we want a blurry background.&nbsp;
+
+**ISO&nbsp;**controls how sensitive the sensor is to light which impacts 2 main things; the brightness of the image & the amount of noise (grain) in the image. A higher ISO is more sensitive to light (brighter) but also more noisy, a lower ISO is less sensitive to light (darker) and has less noise.&nbsp;
+
+Today's activity is first just to think about the controls that might have been used to create some of your favourite instagram shots. Have a scroll through instagram and Pinterest, find some epic photos and think about whether aperture or shutter speed might have been the primary tool.&nbsp;
+
+Then if you want to have a go at it for yourself, try these three simple activities:&nbsp;
+
+1. Capture motion of something moving quickly, like a person jumping or dropping a ball.&nbsp;
+2. Try to blur motion, for example water running in your tap or shower
+3. Try to capture a photo with a blurry background&nbsp;
+
+If it's your first time shooting in manual, you might not know how to adjust these settings -- if so we recommend googling your specific camera model (like 'Canon Rebel Ti manual settings') to find a tutorial that's specific to your gear, as it varies for every single camera.&nbsp;
+
+Depending on the model of your phone, you might even be able to shoot in manual on your phone. [VSCO Cam](https://support.vsco.co/hc/en-us/sections/200607914-VSCO-Advanced-Camera-Controls-for-iOS){: target="_blank"} is a great option for IOS, and there are a few [different options for Android](https://www.guidingtech.com/best-manual-camera-apps-android/){: target="_blank"}.
