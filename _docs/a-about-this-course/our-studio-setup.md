@@ -7,4 +7,6 @@ published: false
 
 We've had so many questions about the studio setup that we used to film this challenge and would love to shine a light on the amazing small-businesses that we bought from.&nbsp;
 
+Most of the furniture you can see in our tutorials comes from Au Fait Living. 
+
 &nbsp;
