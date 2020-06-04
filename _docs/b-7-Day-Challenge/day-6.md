@@ -15,3 +15,11 @@ Today's activity is to practice editing a photo that you've taken so far just on
 Need help installing the preset? There is a [helpful tutorial here](https://www.instagram.com/tv/B_eX3pKDkbQ/?igshid=cu0y6bjzk0na){: target="_blank"}.&nbsp;
 
 Want to see other MAJA presets? Check them out in [their shop](http://thisismaja.com/shop){: target="_blank"}.&nbsp;
+
+
+\----------
+
+
+<h4 id="video-notice">Having trouble viewing the video? </h4> 
+
+*Our videos are hosted with vimeo which is blocked in a few countries, including Indonesia. If you are having trouble viewing it, try using a VPN.<br><br>For a free VNP app try&nbsp;[1\.1.1.1](http://1.1.1.1){: target="_blank"}&nbsp;for mobile devices and&nbsp;[betternet](https://www.betternet.co/){: target="_blank"} for desktop. &nbsp;*
