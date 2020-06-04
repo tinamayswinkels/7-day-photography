@@ -32,7 +32,9 @@ Practice makes perfect.
 
 [Download Unedited Photos Here](https://drive.google.com/open?id=1yyAbkaRzcM9QR99atbUl9UW0YhrEpVhV){: target="_blank"}
 
+
 \----------
+
 
 <h4 id="video-notice">Having trouble viewing the video? </h4> 
 
