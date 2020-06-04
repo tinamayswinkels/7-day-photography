@@ -34,4 +34,6 @@ Practice makes perfect.
 
 \----------
 
-*Having trouble viewing the video? Our videos are hosted with vimeo which is blocked in a few countries, including Indonesia. If you are having trouble viewing it, try using a VPN.<br><br>For a free VNP app try&nbsp;[1\.1.1.1](http://1.1.1.1){: target="_blank"}&nbsp;for mobile devices and&nbsp;[betternet](https://www.betternet.co/){: target="_blank"} for desktop. &nbsp;*
+<h4 id="video-notice">Having trouble viewing the video? </h4> 
+
+*Our videos are hosted with vimeo which is blocked in a few countries, including Indonesia. If you are having trouble viewing it, try using a VPN.<br><br>For a free VNP app try&nbsp;[1\.1.1.1](http://1.1.1.1){: target="_blank"}&nbsp;for mobile devices and&nbsp;[betternet](https://www.betternet.co/){: target="_blank"} for desktop. &nbsp;*
