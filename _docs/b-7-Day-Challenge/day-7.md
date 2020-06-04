@@ -10,6 +10,8 @@ Today we're going to teach you a little bit about shutter speed, aperture, and I
 
 {% include vimeo.html id="421511841" %}
 
+*[\* Can't see the video?&nbsp;](#video-notice)*
+
 The goal for this lesson is not for you to master manual photography in 15 minutes — What we are going to do is help you understand some of the terminology that you hear thrown around and give you a sneak peak into a whole new world of creative photography.
 
 ## How a camera works
@@ -46,12 +48,8 @@ If it's your first time shooting in manual, you might not know how to adjust the
 
 Depending on the model of your phone, you might even be able to shoot in manual on your phone. [VSCO Cam](https://support.vsco.co/hc/en-us/sections/200607914-VSCO-Advanced-Camera-Controls-for-iOS){: target="_blank"} is a great option for IOS, and there are a few [different options for Android](https://www.guidingtech.com/best-manual-camera-apps-android/){: target="_blank"}.
 
+\-———
 
-
-
-\----------
-
-
-<h4 id="video-notice">Having trouble viewing the video? </h4> 
+#### Having trouble viewing the video?
 
 *Our videos are hosted with vimeo which is blocked in a few countries, including Indonesia. If you are having trouble viewing it, try using a VPN.<br><br>For a free VNP app try&nbsp;[1\.1.1.1](http://1.1.1.1){: target="_blank"}&nbsp;for mobile devices and&nbsp;[betternet](https://www.betternet.co/){: target="_blank"} for desktop. &nbsp;*
