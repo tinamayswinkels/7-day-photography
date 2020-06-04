@@ -45,3 +45,13 @@ Then if you want to have a go at it for yourself, try these three simple activit
 If it's your first time shooting in manual, you might not know how to adjust these settings – if so we recommend googling your specific camera model (like 'Canon Rebel Ti manual settings') to find a tutorial that's specific to your gear, as it varies for every single camera.&nbsp;
 
 Depending on the model of your phone, you might even be able to shoot in manual on your phone. [VSCO Cam](https://support.vsco.co/hc/en-us/sections/200607914-VSCO-Advanced-Camera-Controls-for-iOS){: target="_blank"} is a great option for IOS, and there are a few [different options for Android](https://www.guidingtech.com/best-manual-camera-apps-android/){: target="_blank"}.
+
+
+
+
+\----------
+
+
+<h4 id="video-notice">Having trouble viewing the video? </h4> 
+
+*Our videos are hosted with vimeo which is blocked in a few countries, including Indonesia. If you are having trouble viewing it, try using a VPN.<br><br>For a free VNP app try&nbsp;[1\.1.1.1](http://1.1.1.1){: target="_blank"}&nbsp;for mobile devices and&nbsp;[betternet](https://www.betternet.co/){: target="_blank"} for desktop. &nbsp;*
